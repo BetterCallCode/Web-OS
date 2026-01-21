@@ -4,7 +4,14 @@ import "./nav.scss"
 const Nav = () => {
   return (
     <div>
-        <div>Nav</div>
+        <nav>
+            <div className="left">
+                <div className="apple-icon">
+                    <img src="" alt="" />
+                </div>
+            </div>
+            <div className="right"></div>
+        </nav>
     </div>
   )
 }
