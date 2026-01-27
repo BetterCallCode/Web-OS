@@ -9,7 +9,9 @@ function App() {
   return (
     <main>
       <Nav />
-      <MacWindow />
+      <MacWindow>
+        <h1>Hello</h1>
+      </MacWindow>
       <Dock />
     </main>
   )
