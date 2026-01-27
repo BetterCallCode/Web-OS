@@ -1,6 +1,6 @@
 .window{
-    height: 500px;
-    width: 700px;
+    height: 700px;
+    width: 1000px;
     background-color: darkgray;
     border-radius: 0.8rem;
     background-color: rgb(25, 25, 25);
@@ -44,5 +44,8 @@
 
     
 }
+    .main-content{
+        height: 100%;
+    }
 
 }
