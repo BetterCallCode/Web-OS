@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/facebook/react/main/fixtures/dom/public/react-logo.svg",
+    "title": "React",
+    "description": "A JavaScript library for building user interfaces using a component-based architecture.",
+    "tags": ["javascript", "react", "frontend"],
+    "repoLink": "https://github.com/facebook/react",
+    "demoLink": "https://react.dev"
+  },
+  {
+    "id": 2,
+    "image": "https://vitejs.dev/logo.svg",
+    "title": "Vite",
+    "description": "Next-generation frontend tooling with lightning-fast dev server and build process.",
+    "tags": ["vite", "build-tool", "frontend"],
+    "repoLink": "https://github.com/vitejs/vite",
+    "demoLink": "https://vitejs.dev"
+  },
+  {
+    "id": 3,
+    "image": "https://nodejs.org/static/images/logo.svg",
+    "title": "Node.js",
+    "description": "JavaScript runtime built on Chrome's V8 engine for server-side applications.",
+    "tags": ["nodejs", "backend", "javascript"],
+    "repoLink": "https://github.com/nodejs/node",
+    "demoLink": "https://nodejs.org"
+  },
+  {
+    "id": 4,
+    "image": "https://expressjs.com/images/express-facebook-share.png",
+    "title": "Express.js",
+    "description": "Minimal and flexible Node.js web application framework.",
+    "tags": ["express", "nodejs", "backend"],
+    "repoLink": "https://github.com/expressjs/express",
+    "demoLink": "https://expressjs.com"
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg",
+    "title": "Tailwind CSS",
+    "description": "Utility-first CSS framework for rapidly building custom designs.",
+    "tags": ["css", "tailwind", "frontend"],
+    "repoLink": "https://github.com/tailwindlabs/tailwindcss",
+    "demoLink": "https://tailwindcss.com"
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg",
+    "title": "Material UI",
+    "description": "React UI library implementing Google’s Material Design.",
+    "tags": ["react", "ui", "material"],
+    "repoLink": "https://github.com/mui/material-ui",
+    "demoLink": "https://mui.com"
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/vercel/next.js/canary/docs/public/static/favicon/favicon.ico",
+    "title": "Next.js",
+    "description": "React framework for production-grade applications with SSR and SSG.",
+    "tags": ["nextjs", "react", "fullstack"],
+    "repoLink": "https://github.com/vercel/next.js",
+    "demoLink": "https://nextjs.org"
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png",
+    "title": "Redux",
+    "description": "Predictable state container for JavaScript apps.",
+    "tags": ["redux", "state-management", "javascript"],
+    "repoLink": "https://github.com/reduxjs/redux",
+    "demoLink": "https://redux.js.org"
+  },
+  {
+    "id": 9,
+    "image": "https://raw.githubusercontent.com/chartjs/Chart.js/master/docs/.vuepress/public/favicon.ico",
+    "title": "Chart.js",
+    "description": "Simple yet flexible JavaScript charting library.",
+    "tags": ["charts", "data-visualization", "javascript"],
+    "repoLink": "https://github.com/chartjs/Chart.js",
+    "demoLink": "https://www.chartjs.org"
+  },
+  {
+    "id": 10,
+    "image": "https://raw.githubusercontent.com/axios/axios/master/docs/assets/logo.svg",
+    "title": "Axios",
+    "description": "Promise-based HTTP client for the browser and Node.js.",
+    "tags": ["http", "api", "javascript"],
+    "repoLink": "https://github.com/axios/axios",
+    "demoLink": "https://axios-http.com"
+  }
+]
